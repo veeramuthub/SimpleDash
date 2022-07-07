@@ -21,7 +21,7 @@ def generateHomeContent():
                     html.H1("Report dashboard portal", className="display-2"),
                     html.Hr(className="my-2"),
                     html.P(
-                        "https://github.com/veeramuthub", className="font-italic"
+                        "https://github.com/veeramuthub/SimpleDash", className="font-italic"
                     ),
                 ]
             ),
