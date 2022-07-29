@@ -1,3 +1,6 @@
+pandas
+matplotlib
+numpy
 dash
 dash-html-components
 dash-bootstrap-components
